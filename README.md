@@ -21,9 +21,9 @@ PathReview analyzes GitHub profiles, resumes, and project repositories to genera
 git clone https://github.com/codepath/pathreview.git
 cd pathreview
 
-# Configure environment 
+# Configure environment
 cp .env.example .env
-# The default mock setup does not require an API key.
+# The default mock setup does not require an API key
 
 # Start backing services — must be running before make setup
 docker compose up -d
